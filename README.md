@@ -32,7 +32,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/RabieMohamed/RabieMohamed/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/RabeaMohamed/RabeeMohamed/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -52,4 +52,4 @@
 
 ---
 
-⭐️ From [RabieMohamed](https://github.com/RabeaMohamed)
+⭐️ From [RabeaMohamed](https://github.com/RabeaMohamed)
