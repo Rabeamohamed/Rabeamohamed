@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RabeaMohamed&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabeaMohamed&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=RabeaMohamed&theme=tokyonight" alt="streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabeaMohamed&layout=compact&theme=tokyonight" alt="languages"/>
 </p>
