@@ -25,7 +25,6 @@
   <br>
   <img src="https://streak-stats.demolab.com/?user=RabeaMohamed&theme=tokyonight" />
 
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?username=RabeaMohamed&theme=tokyonight" alt="streak"/> -->
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabeaMohamed&layout=compact&theme=tokyonight" alt="languages"/>
 </p>
@@ -34,7 +33,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/RabeaMohamed/RabeeMohamed/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/RabeaMohamed/RabeeMohamed/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
