@@ -21,11 +21,11 @@
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabieMohamed&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RabeaMohamed&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabieMohamed&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabeaMohamed&theme=tokyonight" alt="streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabieMohamed&layout=compact&theme=tokyonight" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabeaMohamed&layout=compact&theme=tokyonight" alt="languages"/>
 </p>
 
 ---
