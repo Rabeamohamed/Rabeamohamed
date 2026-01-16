@@ -23,17 +23,23 @@
 
 ### 🏆 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rabeamohamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabeamohamed&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rabeamohamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabeamohamed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabeamohamed&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rabeamohamed&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
