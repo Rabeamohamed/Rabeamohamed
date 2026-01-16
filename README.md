@@ -40,13 +40,13 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rabie-mohamed-893a85234/" target="_blank">
+  <a href="https://www.linkedin.com/in/rabie-mohamed-893a85234/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rabea2mohamed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/RabeaMohamed">
+  <a href="https://github.com/RabeaMohamed" , target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
 </p>
