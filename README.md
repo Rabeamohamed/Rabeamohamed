@@ -24,18 +24,15 @@
 ### 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabeamohamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabeamohamed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabeamohamed&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rabeamohamed&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabeamohamed&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -64,4 +61,4 @@
 
 ---
 
-⭐️ From [RabeaMohamed](https://github.com/Rabeamohamed)
+⭐️ From [RabeaMohamed](https://github.com/Rabeamohamed){target="\_blank"}
