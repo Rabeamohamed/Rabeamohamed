@@ -21,19 +21,19 @@
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabeaMohamed&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabeamohamed&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
   <img src="https://streak-stats.demolab.com/?user=RabeaMohamed&theme=tokyonight" />
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabeaMohamed&layout=compact&theme=tokyonight" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabeamohamed&layout=compact&theme=tokyonight" alt="languages"/>
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RabeaMohamed/RabeeMohamed/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rabeamohamed/RabeeMohamed/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -46,11 +46,11 @@
   <a href="mailto:rabea2mohamed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/RabeaMohamed" , target="_blank">
+  <a href="https://github.com/Rabeamohamed" , target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐️ From [RabeaMohamed](https://github.com/RabeaMohamed)
+⭐️ From [RabeaMohamed](https://github.com/Rabeamohamed)
