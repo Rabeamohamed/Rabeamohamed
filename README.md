@@ -4,13 +4,13 @@
 ---
 
 ### 🚀 About Me
-<div align="center">
+
 - 🔭 Currently working on **Airbnb Clone (Full Stack .NET + Angular)**
 - 🌱 Learning **Microservices, Clean Architecture & Cloud (Azure)**
 - 💬 Ask me about **C#, ASP.NET Core, Angular, SQL, REST APIs**
 - 📫 Reach me at: **rabea2mohamed@gmail.com**
 - ⚡ Fun fact: I enjoy debugging more than coding 😅
-  </div>
+  
 ---
 
 ### 🧠 Tech Stack
