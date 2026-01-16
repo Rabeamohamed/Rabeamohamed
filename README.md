@@ -5,8 +5,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Airbnb Clone (Full Stack .NET + Angular)**
-- 🌱 Learning **Microservices, Clean Architecture & Cloud (Azure)**
+- 🔭 Currently working on **Back-end Social Media app using .NET (PluseX)**
+- 🌱 Learning **Microservices, Clean Architecture , B-Tier Architecture & Onion Architecute**
 - 💬 Ask me about **C#, ASP.NET Core, Angular, SQL, REST APIs**
 - 📫 Reach me at: **rabea2mohamed@gmail.com**
 - ⚡ Fun fact: I enjoy debugging more than coding 😅
