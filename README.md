@@ -23,14 +23,18 @@
 
 ### 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabeamohamed&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rabeamohamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabeamohamed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabeamohamed&layout=compact&theme=tokyonight" alt="languages"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabeamohamed&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 
@@ -44,17 +48,17 @@
 
 ### 🌐 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rabie-mohamed-893a85234/"  target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/rabie-mohamed-893a85234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rabea2mohamed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:rabea2mohamed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Rabeamohamed" , target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  <a href="https://github.com/Rabeamohamed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
