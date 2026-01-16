@@ -68,4 +68,4 @@
 
 ---
 
-⭐️ From [RabeaMohamed](https://github.com/Rabeamohamed){target="\_blank"}
+⭐️ From [RabeaMohamed](https://github.com/Rabeamohamed)
