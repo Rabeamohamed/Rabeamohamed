@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Back-end Social Media app using .NET (PluseX)**
+- 🔭 Currently working on **Full-Stack E-Commerce App (Eshtri-Menii)**
 - 🌱 Learning **Microservices, Clean Architecture , B-Tier Architecture & Onion Architecute**
 - 💬 Ask me about **C#, ASP.NET Core, Angular, SQL, REST APIs**
 - 📫 Reach me at: **rabea2mohamed@gmail.com**
