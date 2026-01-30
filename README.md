@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true&v=2"/>
+  <img src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight" />
 </div>
 
 <div align="center">
