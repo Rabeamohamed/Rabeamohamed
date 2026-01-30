@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Rabeamohamed&theme=tokyonight&hide_border=true&v=2"/>
 </div>
 
 <div align="center">
@@ -63,4 +63,4 @@
 
 ---
 
-⭐️ From [RabeaMohamed](https://github.com/Rabeamohamed)
+⭐️ From [Rabeamohamed](https://github.com/Rabeamohamed)
